@@ -43,7 +43,7 @@ This project focuses on analyzing travel booking data using Microsoft Excel to d
 
 ### 1. Data Import
 
-* Imported CSV dataset into Excel using Power Query(Data/travel_booking_dataset.csv)
+* [Imported CSV dataset into Excel using Power Query](Data/travel_booking_dataset.csv)
 
 ### 2. Data Cleaning (Power Query)
 

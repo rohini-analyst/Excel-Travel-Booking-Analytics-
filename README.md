@@ -114,15 +114,7 @@ This project focuses on analyzing travel booking data using Microsoft Excel to d
 * Learned to build interactive dashboards in Excel
 * Developed ability to translate data into business insights
 
----
 
-## 🚀 Future Enhancements
-
-* Convert this dashboard into Power BI for advanced visualization
-* Integrate SQL for handling larger datasets
-* Automate reporting using Excel macros
-
----
 
 ## 📎 Conclusion
 
